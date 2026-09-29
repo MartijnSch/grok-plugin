@@ -1,0 +1,17 @@
+{
+  "name": "outreserve",
+  "version": "1.0.0",
+  "description": "Search OutReserve campgrounds and US RV rentals, inspect listing details, and manage signed-in campground availability alerts through the hosted OutReserve MCP server.",
+  "author": {
+    "name": "OutReserve",
+    "url": "https://outreserve.com"
+  },
+  "homepage": "https://outreserve.com/developers/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "outreserve",
+    "outreserve campgrounds",
+    "outreserve rv rentals",
+    "outreserve availability alerts"
+  ]
+}

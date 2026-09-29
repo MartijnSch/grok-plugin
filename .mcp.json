@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "outreserve": {
+      "type": "http",
+      "url": "https://outreserve.com/apps/mcp",
+      "note": "OutReserve hosted MCP server over Streamable HTTP. Campground and US RV rental discovery tools work without an account. Availability-alert tools use OAuth and prompt for OutReserve sign-in on first authenticated use."
+    }
+  }
+}
